@@ -11,7 +11,7 @@ public class Circulo {
         // Carculo del radio
         double area = pi*radio*radio;
         // Imprimimos el resultado
-        System.out.println("El area del circulo es: "+area+" unidades");        
+        System.out.print("El area del circulo es: "+area+" unidades");        
     }
     
 }
