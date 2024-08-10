@@ -5,7 +5,7 @@ public class Circulo {
         Scanner entrada = new Scanner(System.in);
         // Definimos las entradas y as constantes
         double radio;
-        double pi = 3.1416;
+        double pi = 3.141592;
         System.out.print("Ingrese el radio del Circulo: ");
         radio = entrada.nextInt();
         // Carculo del radio
